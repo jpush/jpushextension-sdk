@@ -11,7 +11,7 @@
 
 #import <Foundation/Foundation.h>
 
-#define JPUSH_EXTENSION_VERSION_NUMBER 2.0.5
+#define JPUSH_EXTENSION_VERSION_NUMBER 2.0.6
 
 @class UNNotificationRequest;
 

@@ -1,6 +1,6 @@
 {
   "name": "JPushExtension",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Offically supported JPush Extension iOS SDK Pod. 官方支持的极光推送SDK. ",
   "description": "Offically supported JPush iOS SDK Pod. 官方支持的极光推送SDK. \n集成详情请访问官方文档网站：http://docs.jiguang.cn ",
   "homepage": "http://www.jiguang.cn/",
@@ -16,7 +16,7 @@
   },
   "source": {
      "git": "https://github.com/jpush/jpushextension-sdk.git",
-     "tag": "2.0.5"
+     "tag": "2.0.6"
    },
   "vendored_frameworks": "*.xcframework",
   "frameworks": [
